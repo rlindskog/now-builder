@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "nuxt.config.js",
+      "use": "https://github.com/rlindskog/nuxt-builder",
+      "config": {
+        "serverFiles": [
+          "custom/*.js"
+        ]
+      }
+    }
+  ]
+}
