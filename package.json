@@ -1,8 +1,8 @@
 {
-  "name": "@nuxtjs/now-builder",
-  "version": "0.14.3",
+  "name": "nuxt-builder",
+  "version": "0.14.48",
   "license": "MIT",
-  "repository": "nuxt/now-builder",
+  "repository": "rlindskog/now-builder",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -20,6 +20,7 @@
     "esm": "^3.2.22",
     "execa": "^1.0.0",
     "fs-extra": "^7.0.1",
+    "resolve-from": "^5.0.0",
     "semver": "^6.0.0"
   },
   "devDependencies": {

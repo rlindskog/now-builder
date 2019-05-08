@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "nuxt.config.js",
-      "use": "https://github.com/rlindskog/nuxt-builder",
+      "use": "nuxt-builder",
       "config": {
         "serverFiles": [
           "custom/*.js"
